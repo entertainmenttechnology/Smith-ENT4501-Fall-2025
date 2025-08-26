@@ -1,7 +1,9 @@
 # Week 1 Writing Prompt: Where We Stand, Where We Go
 
 ## Context for Students
-Today we start by stopping.  Step back from teh table, and take a close look at the current state of your project — think about your project as it exists right now,  where you want to take it, things that have changed in the summer, and in poarticular, identify challenges or areas of concern that you may wish to bring up. Write down your thoughts. We’ll come back later and talk about how this fits into the larger process.
+Today we start by stopping.  Step back from the table, and take a close look at the current state of your project — think about your project as it exists right now,  where you want to take it, things that have changed in the summer, and in poarticular, identify challenges or areas of concern that you may wish to bring up. Write down your thoughts. We’ll come back later and talk about how this fits into the larger process.
+
+This is an initial SPECULATION, that should serve as a bridge between last semester and this semester.
 
 ---
 
@@ -16,7 +18,7 @@ Today we start by stopping.  Step back from teh table, and take a close look at 
 
 ## Deliverable
 - A **Week 1 log entry** in your repository (or equivalent system).  
-- Be ready to share one highlight (success, change, or next step) aloud in discussion.  
+- Be ready to share your project, and your speculations aloud in discussion.  
 
 ---
 
