@@ -37,7 +37,7 @@ Check only the stages you actively worked on this Sprint:
 - **Planned Deliverables:**  
   (Prototype, documentation, test, presentation, etc.)  
 - **Research Needed:**  
-  (What questions must be answered or what knowledge must be gathered this Sprint in order to succeed?)  
+  (What questions must be answered or what knowledge must be gathered for this Sprint to succeed?)  
 
 ---
 
