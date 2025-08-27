@@ -3,7 +3,6 @@
 **Due:** Week 2 (Remote, Tuesday Sept 2)  
 **Submit:** Public repository link + Agile Report #1 + Iteration Plan  
 
----
 
 ## Part 1 – Establish Repository
 - Every student must maintain a **public-facing repository** for Agile reports and project materials.  
@@ -12,18 +11,25 @@
   - A folder for weekly **Agile Reports**.  
   - A section for **documentation and iteration plans**.  
 
----
-
 ## Part 2 – Agile Report #1 (Baseline)
 This is your first Agile report, documenting the **state of the project as of Week 1**.  
-Create a markdown file (or equivalent) in your repo with the following sections:  
+Create a markdown file (or equivalent) in your repo using this template:  
+[01_Agile_Sprint_Entry.md](https://github.com/entertainmenttechnology/Smith-ENT4501-Fall-2025/blob/main/documents/01_Agile_Sprint_Entry.md)  
 
+Instructions on how to fill out this form can be found here:  
+[01_Agile_Sprint_Instructions.md](https://github.com/entertainmenttechnology/Smith-ENT4501-Fall-2025/blob/main/documents/01_Agile_Sprint_Instructions.md)  
+
+Information about Agile Philosophy can be found here:  
+[01_Agile_SRDMPA_alignment.md](https://github.com/entertainmenttechnology/Smith-ENT4501-Fall-2025/blob/main/documents/01_Agile_SDRMPA_alignment.md)  
+
+
+Review of Previous sprint
 - **Current State**: What you have now (prototype, documentation, assets).  
 - **Goals for Next Week**: Your immediate sprint commitment (Week 2 deliverables).  
 - **Blockers**: Problems, concerns, or open questions you need feedback on.  
 - **Next Steps**: What you will build, test, or refine before Week 2.  
 
----
+
 
 ## Part 3 – Iteration Plan (Sprint Roadmap)
 Using the course syllabus as a guide, sketch out your **major sprints**:  
