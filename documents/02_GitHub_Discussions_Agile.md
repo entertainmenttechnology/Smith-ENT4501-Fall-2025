@@ -2,6 +2,7 @@
 
 This document explains how we will use GitHub Discussions in this class.  
 It is very important that you follow these steps carefully each week so your Agile Reports and peer feedback are captured properly.
+The first Discussion can be found [here](https://github.com/entertainmenttechnology/Smith-ENT4501-Fall-2025/discussions/2)  
 
 ---
 
@@ -76,3 +77,27 @@ This top-level comment = **your project’s thread** for that week.
 `Week 2 – Student Agile Reports`
 
 **Student Top-Level Comment:**  
+```
+Name: Jane Doe
+GitHub ID: janedoe123
+Repo Link: https://github.com/janedoe/ENT4501-Project
+
+### Agile Report Summary
+- Current State: Basic prototype running.
+- Goals: Add sound triggers this week.
+- Blockers: Trouble with OSC messages.
+- Next Steps: Research examples + test small script.
+
+(Full report in repo: /AgileReports/AgileReport-Week02.md)
+```
+
+**Peer Reply:**  
+```
+@janedoe123 I had the same issue with OSC last semester.
+Try using the python-osc library instead of node-osc – it fixed my lag problem.
+```
+
+---
+
+By following this process, we keep **every project and every piece of feedback documented**, both in your personal repo and in the class discussion space.
+
