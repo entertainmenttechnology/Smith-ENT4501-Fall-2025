@@ -143,29 +143,24 @@ This ensures every peer comment adds value and encourages dialogue.
 
 ---
 
-## 7. Example Agile Report (Extended)
+**Name:** Jane Doe  
+**Repository Link:** https://github.com/janedoe/ENT4501-Project  
 
-**Name:** Jane Doe
-**Repository Link:** [https://github.com/janedoe/ENT4501-Project](https://github.com/janedoe/ENT4501-Project)
+**Agile Report #3 Summary:**  
 
-**Agile Report #3 Summary:**
+- **Retrospective:** Last week I built a Unity prototype to test puppet movement. What went well: the puppet responds to tracking input. What didn’t: latency is ~500ms, making it difficult to control. Improvement: break down testing into smaller experiments to isolate the delay.  
+- **Current State:** Puppet prototype runs in Unity; latency consistently around 500ms across multiple trial runs.  
+- **User Story (Next Sprint Focus):** As a performer, I want the puppet to respond quickly so that I can control it naturally.  
+- **Acceptance Criteria (GWT):**  
+  - Given the performer moves the puppet,  
+  - When the tracking system processes the input,  
+  - Then the puppet should update on screen within 200ms.  
+- **Definition of Done:** Puppet responds within 200ms, remains stable for 2 minutes of continuous movement, and stops smoothly when performer input ceases.  
+- **Goals (Steps Toward DoD):** Test Unity OSC plugins, collect timing data, and document results in Iteration Plan.  
+- **Blockers/Help Request:** Latency currently ~500ms using default OSC plugin. Help Request: does anyone know Unity OSC plugins or techniques to reduce delay?  
+- **Next Steps:** Install and configure new Unity OSC plugin; run latency tests; compare performance of at least two plugin options.  
 
-* **User Story:** As a performer, I want responsive shadow visuals so that the audience feels immersed.
-* **Current State:** Repo structure complete; Unity prototype renders shadows and basic puppet input. Uploaded Iteration Plan with 3 milestones.
-* **Goals:** Add Budget & Inventory to Iteration Plan; integrate OSC for smoother puppet control.
-* **Acceptance Criteria:** Puppet responds within 200ms latency; Iteration Plan shows 3 future sprints.
-* **Blockers/Help Request:** Unity OSC latency — looking for plugin recommendations.
-* **Definition of Done:** By next week, have a working puppet demo controlled by OSC messages with <200ms delay.
-* **Next Steps:** Research Unity OSC plugins, prepare 2 slides (title + visuals) for Jury #1.
-
-**Peer Feedback Example:**
-
-* Acknowledge: Repo is well-structured and easy to navigate.
-* Suggest: Break down Jury #1 slides into smaller weekly tasks.
-* Ask: Will the OSC control also support multiple puppets or just one?
-
----
-
-## Summary
-
-By using **User Stories, Acceptance Criteria, Definitions of Done, Retrospective prompts, and structured Peer Feedback**, students will make their Agile Reports more concrete and actionable. This strengthens collaboration, helps identify problems early, and prepares projects for successful presentations.
+**Peer Feedback Example:**  
+- **Acknowledge:** Clear latency problem is identified with measurable testing.  
+- **Suggest:** Try breaking down testing into shorter sessions to see if latency increases over time.  
+- **Ask:** Are you planning to test latency on different machines or only one setup?  
