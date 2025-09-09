@@ -75,7 +75,7 @@ This is what you should be workign on first, in order to provide your classmates
 ---
 
 ## Part 5 – Peer Feedback
-- In the **Week 3 Master Discussion**, post:  
+- In the [**Week 3 Master Discussion**](https://github.com/entertainmenttechnology/Smith-ENT4501-Fall-2025/discussions/3), post:  
   - Repo link  
   - Agile Report summary (Current State → Goals → Blockers → Next Steps)  
   - Link to your Iteration Plan  
