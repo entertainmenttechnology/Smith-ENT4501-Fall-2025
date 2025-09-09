@@ -95,8 +95,7 @@ This week we continue our Agile development process, but now start to focus on d
 ---
 
 ## Deliverables Checklist (Due Week 4)
-- [ ] Public repository link posted in the Week 3 Master Discussion.  
-- [ ] Agile Report #3 completed and uploaded to repo.  
+- [ ] Agile Report #3 completed and uploaded to repo, and added to Week 3 Discussion Board.  
 - [ ] Iteration Plan & Timeline file included in repo.  
 - [ ] Budget & Inventory section included in Iteration Plan.  
 - [ ] Bibliography (Zotero link or file) added to repo.  
