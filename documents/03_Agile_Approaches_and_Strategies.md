@@ -2,7 +2,29 @@
 
 This document expands on the basic Agile Sprint Instructions by introducing **techniques that make Agile Reports more collaborative, detailed, and actionable**. Students should use these approaches to strengthen their weekly reports and to provide meaningful feedback to classmates.
 
-## 1. User Stories
+## 1. Retrospective Prompt
+
+Agile teams often run retrospectives with simple prompts:
+
+* **What went well?**
+* **What didn’t go well?**
+* **What can we improve?**
+
+Students can integrate these into their Agile Reports to provide more reflection and invite richer feedback.  
+
+## 2. Current State  
+
+Every Agile Report begins with a snapshot of **where the project is right now**. This section provides context for your new sprint and helps your peers and instructor understand what you are building on. Keep it short and factual — 2–3 bullet points are enough. Think of it as saying: *“Here’s the ground I’m standing on.”*  
+
+**Format:**  
+*Summarize in 2–3 bullet points the concrete progress since last week (prototype results, tests, observed problems).*  
+
+**Example (Puppet Story):**  
+- Puppet prototype runs in Unity.  
+- Current response time is ~500ms, which makes control feel laggy.  
+- Testing shows consistent delay across multiple trial runs.  
+
+## 3. User Stories
 
 As humans, we respond instinctively to stories.  This is useful, as our profession, by and large, is to communicate by story.  Agile projects often describe work in terms of **user stories**, which frame goals from the perspective of a user or stakeholder.  Much has already been written about this, so I defer repetition and refer you to some of these.  To me, the important part is that **The perspective of the Agile Story is the End User**: get in the head of your hypothetical user and think about teh project freom THEIR point of view.  
 
@@ -19,7 +41,7 @@ As humans, we respond instinctively to stories.  This is useful, as our professi
 
 ---
 
-## 2. Acceptance Criteria
+## 4. Acceptance Criteria
 
 Each user story or sprint goal should include **acceptance criteria** that define when the work can be considered complete.  One approach to Acceptance is the "Given-When-Then" approach.  
 
@@ -42,7 +64,7 @@ This link describes the Given-When-Then approach to acceptance criteria and how 
 
 ---
 
-## 3. Definition of Done (DoD)
+## 5. Definition of Done (DoD)
 
 A **Definition of Done** (DoD) clarifies what it means for a task or milestone to be finished.  If YOU can't describe when you are done, then how can someone else, and how do you know that you have met the criteria?  
 
@@ -64,7 +86,7 @@ This reduces confusion and helps the class give focused feedback, as they can te
 
 ---
 
-## 4. Blockers as Help Requests
+## 6. Blockers as Help Requests
 
 When reporting blockers, frame them as **requests for collaboration** rather than just obstacles.
 
@@ -82,20 +104,22 @@ When reporting blockers, frame them as **requests for collaboration** rather tha
 This invites classmates to contribute solutions, and makes it explicit WHERE you need or request help.
 
 ---
+## 7. Goals  
 
-## 5. Retrospective Prompts
+Goals describe the **outcomes you intend to achieve in this sprint**. Unlike the Definition of Done (the full finish line), goals are the *steps toward* that finish line.  
 
-Agile teams often run retrospectives with simple prompts:
+**Format:**  
+*List 2–3 outcomes for this sprint that move you toward your Definition of Done.*  
 
-* **What went well?**
-* **What didn’t go well?**
-* **What can we improve?**
+**Example (Puppet Story):**  
+- Reduce latency by testing Unity OSC plugins.  
+- Collect timing data to measure response accuracy.  
+- Document findings in the Iteration Plan.  
 
-Students can integrate these into their Agile Reports to provide more reflection and invite richer feedback.
 
 ---
 
-## 6. Peer Feedback Framework
+## Peer Feedback Framework
 
 When responding to classmates’ Agile Reports, use:
 
