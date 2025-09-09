@@ -3,7 +3,7 @@
 **Due:** Week 4 class meeting  
 **Modality:** Asynchronous  
 
-This week we continue our Agile development process, but now start to focus on designing and assembling your first presentation.  In week 5/6 you will be doing an oral presentation to our jury, and it is in your best interest to create a compelling one. Your assignment for this week then, along with the continuation of project development, is to create or add to your public repository, ensure you have at least rudimentary materials in each area, and to develop a milestone timeline that shows your semester plans for completion.  You will also within the Discussion Board continue your feedback and ideas for other students projects.  
+This week we continue our Agile development process, but now start to focus on designing and assembling your first presentation.  In weeks 5/6 you will be doing an oral presentation to our jury, and it is in your best interest to create a compelling one. Your assignment for this week then, along with the continuation of project development, is to create or add to your public repository, ensure you have at least rudimentary materials in each area, and to develop a milestone timeline that shows your semester plans for completion.  You will also within the Discussion Board continue your feedback and ideas for other students projects.  
 
 
 ## Objectives
@@ -13,7 +13,7 @@ This week we continue our Agile development process, but now start to focus on d
 - Begin compiling a **bibliography** of inspirations, precedents, and technical resources.  
 - Provide and receive peer feedback through Discussions.  
 
-
+---
 
 ## Part 1 – Public Repository (Required)
 - By this week, each student must maintain a **public-facing project repository**.  
