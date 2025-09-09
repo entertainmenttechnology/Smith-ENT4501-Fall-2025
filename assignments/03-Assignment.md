@@ -63,8 +63,6 @@ This is what you should be workign on first, in order to provide your classmates
   - Add a **Budget & Inventory** section listing resources, materials, and costs (or $0 if already covered).  
 - A visual chart, table, or diagram is encouraged.  
 
----
-
 ## Part 4 – Research Bibliography
 - Continue to add to your **bibliography** of inspirations, background research, and technical precedents.  
 - Use **Zotero** (preferred) or another bibliography tool.  
@@ -87,13 +85,11 @@ This is what you should be workign on first, in order to provide your classmates
   - Suggest improvements for sprint planning, repo structure, or bibliography.  
   - Ask clarifying questions.  
 
----
 
 ## Suggested Resources
 - *Agile Manifesto* – https://agilemanifesto.org/  
 - GitHub Docs: [Participating in a Discussion](https://docs.github.com/en/discussions/collaborating-with-your-community-in-discussions/participating-in-a-discussion)  
 - Zotero: [Getting Started Guide](https://www.zotero.org/support/quick_start_guide)  
-- Example project documentation (provided by instructor in course repo).  
 
 ---
 
