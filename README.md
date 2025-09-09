@@ -6,9 +6,9 @@ Class Repository for **ENT 4501 Culmination Project (Smith Section), Fall 2025**
 ## 📢 Announcements  
 This section will be updated weekly with important class notes and reminders.  
 
-- **Week 3 (Asynchronous):** Complete Iteration Plan, Repository Setup, and Bibliography. Post your repo link in the Week 3 Master Discussion.  
-- **Week 2 Recap:** Students presented Agile Report #1 and received peer/instructor feedback. Begin drafting iteration milestones.  
-- **Week 1 Recap:** Introduction to course and project expectations. Initial prompt assigned.  
+- **Week 3 (Asynchronous):** Complete Iteration Plan, Repository Setup, and Bibliography. Post your Agile Report in the Week 3 Agile Discussion.  
+- **Week 2 (Remote) Recap:** Students presented Agile Report #1 and received peer/instructor feedback. Begin drafting iteration milestones.  
+- **Week 1 (In Person) Recap:** Introduction to course and project expectations. Initial prompt assigned.  
 
 ---
 
