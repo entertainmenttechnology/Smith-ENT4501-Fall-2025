@@ -4,8 +4,10 @@ This document expands on the basic Agile Sprint Instructions by introducing **te
 
 ## 1. User Stories
 
-As humans, we respond instinctively to stories.  This is useful, as our profession, by and large, is to communicate by story.  Agile projects often describe work in terms of **user stories**, which frame goals from the perspective of a user or stakeholder.  Much has already been written about this, so I defer repetition and refer you to some of these.
-[Atlassian:User Stories](https://www.atlassian.com/agile/project-management/user-stories) 
+As humans, we respond instinctively to stories.  This is useful, as our profession, by and large, is to communicate by story.  Agile projects often describe work in terms of **user stories**, which frame goals from the perspective of a user or stakeholder.  Much has already been written about this, so I defer repetition and refer you to some of these.  To me, the important part is that **The perspective of the Agile Story is the End User**: get in the head of your hypothetical user and think about teh project freom THEIR point of view.  
+
+- [Wikipedia entry on user story](https://en.wikipedia.org/wiki/User_story)
+- [Atlassian:User Stories](https://www.atlassian.com/agile/project-management/user-stories) 
 
 **Format:**
 
@@ -19,27 +21,46 @@ As humans, we respond instinctively to stories.  This is useful, as our professi
 
 ## 2. Acceptance Criteria
 
-Each user story or sprint goal should include **acceptance criteria** that define when the work can be considered complete.
+Each user story or sprint goal should include **acceptance criteria** that define when the work can be considered complete.  One approach to Acceptance is the "Given-When-Then" approach.  
+
+**Format:**
+
+*Given* [starting condition or context],  
+*When* [action or event occurs],  
+*Then* [expected measurable outcome].
 
 **Example Criteria:**
 
-* The Unity prototype runs for 2 minutes without crashing.
-* The sensor data triggers at least 3 distinct visual responses.
-* The bibliography includes at least 5 new credible references this week.
+*Given* the performer moves the puppet,  
+*When* the tracking system processes the input,  
+*Then* the puppet should update on screen within 200ms.
 
 Acceptance criteria give peers and the instructor something specific to respond to when reviewing progress.
+
+[Product Plan's definition and explanations](https://www.productplan.com/glossary/acceptance-criteria/)  
+This link describes the Given-When-Then approach to acceptance criteria and how to tie it to the User Story.  
 
 ---
 
 ## 3. Definition of Done (DoD)
 
-A **Definition of Done** (DoD) clarifies what it means for a task or milestone to be finished.
+A **Definition of Done** (DoD) clarifies what it means for a task or milestone to be finished.  If YOU can't describe when you are done, then how can someone else, and how do you know that you have met the criteria?  
 
-**Example:**
+**Format:**
 
-* *DoD for prototype iteration:* Basic interaction works, visuals respond in real time, and at least one peer has tested the build.
+*The work is considered done when [specific measurable conditions for this story/sprint are met].*
 
-This reduces confusion and helps the class give focused feedback.
+**Example (Puppet Movement Story):**
+
+*The puppet movement feature is considered done when:  
+- The puppet responds to performer movement within 200ms,  
+- The response remains stable for at least 2 minutes of continuous motion,  
+- The puppet stops smoothly without jitter when the performer stops.*
+
+
+This reduces confusion and helps the class give focused feedback, as they can test based on your criteria.    
+
+[Product Plan DoD](https://www.productboard.com/glossary/agile-definition-of-done/)  
 
 ---
 
@@ -47,12 +68,18 @@ This reduces confusion and helps the class give focused feedback.
 
 When reporting blockers, frame them as **requests for collaboration** rather than just obstacles.
 
-**Example:**
+**Format:**
 
-* *Blocker: OSC messages in Unity are delayed.*
-* *Request: Does anyone have experience with Unity OSC plugins or alternatives to reduce latency?*
+*Blocker: [describe the problem]*  
+*Help Request: [specific question or request for assistance]*
 
-This invites classmates to contribute solutions.
+**Example (Puppet Movement Story):**
+
+*Blocker: The puppet response currently lags by 500ms, making it difficult to control in real time.*  
+*Help Request: Does anyone know Unity plugins or methods to reduce latency in OSC message handling?*
+
+
+This invites classmates to contribute solutions, and makes it explicit WHERE you need or request help.
 
 ---
 
