@@ -1,4 +1,4 @@
-# Week 3 Assignment – Iteration Planning, Repository Setup, and Research Bibliography
+# Week 3 Assignment – Agile Reporting and feedback, Iteration Planning, Repository Setup, Presentation Planning
 
 **Due:** Week 4 class meeting  
 **Modality:** Asynchronous  
