@@ -16,7 +16,10 @@ This week we continue our Agile development process, but now start to focus on d
 
 ---
 
-## Part 1 – Extending Agile Reporting #3
+## Part 1 – Extending Agile Reporting #3  
+
+This is what you should be workign on first, in order to provide your classmates with the necessary material for their feedback (which you will be providing in Part 5, some time in the week, preferrable early)  
+
 - Based on the information below, update or create your week three Agile report.
 - This report extends our productivity by formalizing some effective Agile approaches.
 - These are described in the document [Agile Approaches and Strategies](https://github.com/entertainmenttechnology/Smith-ENT4501-Fall-2025/blob/main/documents/03_Agile_Approaches_and_Strategies.md)  
