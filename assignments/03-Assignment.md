@@ -7,15 +7,25 @@ This week we continue our Agile development process, but now start to focus on d
 
 
 ## Objectives
+- Learn new techniques for Agile Sprint reporting
+- Update and Document your **Agile Report #3** using these updated techniques.
 - Establish and share a **public repository** for your project.  
-- Document your **Agile Report #3**.  
 - Create an **Iteration Plan/Timeline** leading to your Week 5/6 jury presentation.  
 - Begin compiling a **bibliography** of inspirations, precedents, and technical resources.  
 - Provide and receive peer feedback through Discussions.  
 
 ---
 
-## Part 1 – Public Repository (Required)
+## Part 1 – Extending Agile Reporting #3
+- Based on the information below, update or create your week three Agile report.
+- This report extends our productivity by formalizing some effective Agile approaches.
+- These are described in the document [Agile Approaches and Strategies](https://github.com/entertainmenttechnology/Smith-ENT4501-Fall-2025/blob/main/documents/03_Agile_Approaches_and_Strategies.md)  
+- Format: Use the template provided [here](https://github.com/entertainmenttechnology/Smith-ENT4501-Fall-2025/blob/main/documents/03_Agile_report_template_extended.md)
+- Add your Week 3 Agile Report to your repository.
+- Place this material into the Week 3 Discussion for class feedback.
+
+
+## Part 2 – Public Repository (Required)
 - By this week, each student must maintain a **public-facing project repository**.  
 - **GitHub is strongly recommended**, but OpenLab or another approved platform is acceptable if it can:  
   - Host weekly Agile Reports,  
@@ -37,21 +47,11 @@ This week we continue our Agile development process, but now start to focus on d
   - `/Bibliography` (Zotero link or export, plus notes)  
   - `/ProjectMaterials` (assets, code, sketches, prototypes)  
 
-**Deliverable:** Post your public repository link in the Week 3 Master Discussion.  
+**Deliverable:** Post your public repository link in the Week 3 Discussion.  
 
 ---
 
-## Part 2 – Agile Report #3
-- Add your Week 3 Agile Report to the repository.  
-- Format:  
-  - **Current State** – What progress have you made since Week 2?  
-  - **Goals** – Sprint goals for this week.  
-  - **Blockers** – Problems or concerns you’re encountering.  
-  - **Next Steps** – Concrete tasks before Week 4.  
-
----
-
-## Part 3 – Iteration Plan & Timeline
+## Part 3 – Iteration Plan & Timeline For Presentation Weeks 5/6
 - Create or update an **Iteration Plan file** in your repository.  
 - This plan must:  
   - Break the project into **sprints** leading to the Week 5/6 jury presentation.  
@@ -63,7 +63,7 @@ This week we continue our Agile development process, but now start to focus on d
 ---
 
 ## Part 4 – Research Bibliography
-- Begin a **bibliography** of inspirations, background research, and technical precedents.  
+- Continue to add to your **bibliography** of inspirations, background research, and technical precedents.  
 - Use **Zotero** (preferred) or another bibliography tool.  
 - Bibliography should include:  
   - **Inspirations** (artists, projects, performances, designs).  
