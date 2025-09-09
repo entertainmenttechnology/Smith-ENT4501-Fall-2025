@@ -2,15 +2,20 @@
 
 This document expands on the basic Agile Sprint Instructions by introducing **techniques that make Agile Reports more collaborative, detailed, and actionable**. Students should use these approaches to strengthen their weekly reports and to provide meaningful feedback to classmates.
 
-## 1. Retrospective Prompt
+## 1. Retrospective
 
-Agile teams often run retrospectives with simple prompts:
+Each Agile Report begins with a **retrospective on the previous sprint**. Reflection helps you recognize progress, identify challenges, and decide what to improve next. Keep this brief and honest — it connects your past work to your current sprint.  
 
-* **What went well?**
-* **What didn’t go well?**
-* **What can we improve?**
+**Format:**  
+- *What went well?*  
+- *What didn’t go well?*  
+- *What can I improve next week?*  
 
-Students can integrate these into their Agile Reports to provide more reflection and invite richer feedback.  
+**Example (Puppet Story):**  
+- What went well? The prototype successfully tracked puppet movement in Unity.  
+- What didn’t go well? Latency was consistently around 500ms, making control difficult.  
+- What can I improve next week? Investigate Unity OSC plugins and optimize settings to reduce delay.  
+
 
 ## 2. Current State  
 
@@ -39,8 +44,6 @@ As humans, we respond instinctively to stories.  This is useful, as our professi
 
 * *As a performer, I want the puppet tracking system to respond smoothly so that I can control the character in real time.*
 
----
-
 ## 4. Acceptance Criteria
 
 Each user story or sprint goal should include **acceptance criteria** that define when the work can be considered complete.  One approach to Acceptance is the "Given-When-Then" approach.  
@@ -62,7 +65,6 @@ Acceptance criteria give peers and the instructor something specific to respond 
 [Product Plan's definition and explanations](https://www.productplan.com/glossary/acceptance-criteria/)  
 This link describes the Given-When-Then approach to acceptance criteria and how to tie it to the User Story.  
 
----
 
 ## 5. Definition of Done (DoD)
 
@@ -84,7 +86,6 @@ This reduces confusion and helps the class give focused feedback, as they can te
 
 [Product Plan DoD](https://www.productboard.com/glossary/agile-definition-of-done/)  
 
----
 
 ## 6. Blockers as Help Requests
 
@@ -103,7 +104,6 @@ When reporting blockers, frame them as **requests for collaboration** rather tha
 
 This invites classmates to contribute solutions, and makes it explicit WHERE you need or request help.
 
----
 ## 7. Goals  
 
 Goals describe the **outcomes you intend to achieve in this sprint**. Unlike the Definition of Done (the full finish line), goals are the *steps toward* that finish line.  
@@ -116,8 +116,20 @@ Goals describe the **outcomes you intend to achieve in this sprint**. Unlike the
 - Collect timing data to measure response accuracy.  
 - Document findings in the Iteration Plan.  
 
+## 8. Next Steps  
 
----
+Next Steps are **specific, immediate tasks** you will complete before the next class/report. They are tactical “to-do” style items that can be checked off.  
+
+**Format:**  
+*List 2–4 concrete, actionable tasks you will complete by the next class/report.*  
+
+**Example (Puppet Story):**  
+- Install and configure Unity OSC plugin.  
+- Run latency tests and record ms results.  
+- Compare at least two plugin options for performance.  
+
+
+---  
 
 ## Peer Feedback Framework
 
