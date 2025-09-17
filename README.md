@@ -1,10 +1,33 @@
 # Smith-ENT4501-Fall-2025  
 Class Repository for **ENT 4501 Culmination Project (Smith Section), Fall 2025**  
 
----
-
 ## 📢 Announcements  
 This section will be updated weekly with important class notes and reminders.  
+- **Week 5-6** Presentations:
+  - Prepare for presentations. This guide provides the types of materials you are expected to include [Assignment 4 Presentation](./assignments/04-jury_1_assignment_prep_ENT4501.md)
+  - Schedule a runthrough with me next week (for those presenting on the 30th).
+
+### Jury #1 Presentation Schedule  
+
+#### Week 5 – Tuesday, September 30 (Smith)  
+
+| Time     | Student  | Project Title                              |
+|----------|----------|--------------------------------------------|
+| 10:30 AM | Behlul   | Vision Mapper – face and gesture recognition |
+| 10:50 AM | Jessi    | Plant Pulse – smart plant sensing and control system |
+| 11:10 AM | Jay      | TechWear AV – smart jacket with sensors, lights, and actuators |
+| 11:30 AM | Kikey    | Desktop Pal – computer desktop companion   |
+
+#### Week 6 – Tuesday, October 7 (Smith)  
+
+| Time     | Student   | Project Title                          |
+|----------|-----------|----------------------------------------|
+| 10:30 AM | John      | Name TBA – computer game               |
+| 10:50 AM | Rukayat   | Animated Sketch – animated hybrid virtual comic |
+| 11:10 AM | Isaiah    | Ninjah! – 2D computer game             |
+| 11:30 AM | Ty        | TBA – sound design for a game          |
+
+## Prior Assignments
 
 - **Week 3 (Asynchronous):** Complete Iteration Plan, Repository Setup, and Bibliography. Post your Agile Report in the Week 3 Agile Discussion.  [Link to Assignment](./assignments/03-Assignment.md)  
 - **Week 2 (Remote) Recap:** Students presented Agile Report #1 and received peer/instructor feedback. Begin drafting iteration milestones.  
