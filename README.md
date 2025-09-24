@@ -1,6 +1,18 @@
 # Smith-ENT4501-Fall-2025  
 Class Repository for **ENT 4501 Culmination Project (Smith Section), Fall 2025**  
 
+**Discord link:** [Discord](https://github.com/entertainmenttechnology/Smith-ENT4501-Fall-2025)  
+
+Students in the list below: please scheudle a private meeting with me for tomorrow (THursday) or Friday (Sep 25-26).  
+I have availabiliyt on Thursday morning as well as most of Friday.  
+| Time     | Student  |  Time Selected        |
+|----------|----------|-----------------------|
+| 10:30 AM | Behlul   |
+| 10:50 AM | Jessi    |
+| 11:10 AM | Jay      |
+| 11:30 AM | Kikey    |
+
+
 ## 📢 Announcements  
 This section will be updated weekly with important class notes and reminders.  
 - **Week 5-6** Presentations:
