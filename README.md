@@ -2,9 +2,12 @@
 Class Repository for **ENT 4501 Culmination Project (Smith Section), Fall 2025**  
 
 **Discord link:** [Discord](https://github.com/entertainmenttechnology/Smith-ENT4501-Fall-2025)  
+**Brightspace site** [Brightspace](https://brightspace.cuny.edu/d2l/home/949310)  
+
+---
 
 Students in the list below: please scheudle a private meeting with me for tomorrow (THursday) or Friday (Sep 25-26).  
-I have availabiliyt on Thursday morning as well as most of Friday.  
+I have availability on Thursday morning as well as most of Friday.  
 | Time     | Student  |  Time Selected        |
 |----------|----------|-----------------------|
 | 10:30 AM | Behlul   |
