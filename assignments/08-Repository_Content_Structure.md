@@ -13,7 +13,6 @@ By completing this assignment, you will:
 - Prepare your **presentation materials** for upcoming public review.  
 - Receive **peer and instructor feedback** to strengthen your documentation and final deliverables.
 
----
 
 ## 🔍 Overview
 Each student will conduct a full audit of their project documentation and repository structure. You will verify that all materials required for the **Final Presentation** are present, clearly labeled, and properly linked.  
@@ -21,7 +20,6 @@ You will also outline what materials you intend to prepare for your **next prese
 
 All materials referenced in this assignment must also be contained in your main project repository—hosted on GitHub, OpenLab, or another approved platform.
 
----
 
 ## 🔧 Deliverables
 
@@ -40,7 +38,6 @@ You must also **review and comment on at least two classmates’ posts**, offeri
 
 > 🔗 [Join the Week 8 Discussion Board](https://github.com/entertainmenttechnology/Smith-ENT4501-Fall-2025/discussions/8)
 
----
 Your work for this assignment **is your updated and fully audited repository**—you do not need to submit a separate document. The repository itself serves as the deliverable, reflecting all required materials and updates.  
 This report should include the following sections:
 
@@ -73,25 +70,23 @@ Use one of the following indicators for status:
 | Budget & Inventory | [URL] | ⚙️ In Progress |
 | Project Materials (Code / Assets / Fabrication) | [URL] | ✅ Complete |
 | Final Documentation (Owner’s Manual or Process Notes) | [URL] | 🚧 Not Started |
-| Lessons Learned | [URL] | ⚙️ In Progress |
+| Mid semester peresentation slides | [URL] | ✅ Complete |
+| Final peresentation slides | [URL] | ✅ Complete |  
+| Lessons Learned | [URL] | ⚙️ In Progress | but all major components must be present and properly linked.
 
-> You may adjust or expand this list as appropriate for your project type, but all major components must be present and properly linked.
-
----
 
 ### 3. Presentation Planning
 Describe your plan for your **next presentation session** (Jury or Open Showcase).  
 
 - **ENT students** are required to have a **poster** prepared for their presentation.  
 - **MTEC students** may choose alternate formats such as **interactive demos, videos, kiosk-style displays, or projection-based presentations**.  
-
 Your plan should specify:
 - The **format** you intend to use.  
 - The **content** that will be presented (slides, prototypes, demos, videos, etc.).  
 - Any **equipment or software requirements** for your presentation setup.  
 - A note on how your **documentation materials** (poster, slides, QR codes, or digital links) will accompany the live presentation.
 
----
+
 
 ### 4. Reflection
 Write a short reflection (4–6 sentences):
@@ -99,12 +94,10 @@ Write a short reflection (4–6 sentences):
 - Which areas of your documentation are strongest?  
 - What still needs attention before your final presentation?  
 
----
 
 ### 5. Blockers or Help Requests
 Identify any current challenges or questions where you would like instructor or peer feedback.
 
----
 
 ## 🔹 Evaluation Criteria
 Your submission will be evaluated on:
@@ -114,14 +107,12 @@ Your submission will be evaluated on:
 - **Self-assessment honesty** and reflection on progress.  
 - **Responsiveness to prior feedback** (showing improvement since Presentation 1).  
 
----
 
 ## 🗓️ Deadlines
 - **Repository Audit Submission:** Due mid-week.  
 - **Peer Feedback Discussion:** Due by end of the week.  
 - **Instructor Review:** Conducted continuously during the review period.
 
----
 
 ### ⚠️ Important Notes
 - All linked materials must also exist in your repository and be labeled clearly.  
