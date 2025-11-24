@@ -5,7 +5,24 @@ Class Repository for **ENT 4501 Culmination Project (Smith Section), Fall 2025**
 **Brightspace site** [Brightspace](https://brightspace.cuny.edu/d2l/home/949310)  
 
 ---
+Here is some final informaiton about the upcoming presentations.  We need to make sure we have all materials, and it is important thaty technology needs are presented.
 
+November 21: 
+Any tech needs (beyond the equipment in V321) for your final presentation and poster are due to me. 
+
+December 11:  
+1:00-4:00pm: Poster session in V119 and V120. All students must attend.
+-	Make sure you print your poster ahead of time!
+
+December 12 and 19th: Final presentations in person in V321. All students must attend. 
+-	You will have 10 minutes to present, and then 5 minutes for questions/feedback.
+-	You do not need to bring your poster, just your presentation. 
+-	Tell us: What was your project, what work did you do, what did you learn, and what do you hope to do with these skills?
+
+<img width="468" height="223" alt="image" src="https://github.com/user-attachments/assets/475c091b-397a-4a6f-8bf2-4e6d1af4ce34" />
+
+
+---
 Students in the list below: please scheudle a private meeting with me for tomorrow (THursday) or Friday (Sep 25-26).  
 I have availability on Thursday morning as well as most of Friday.  
 | Time     | Student  |  Time Selected        |
